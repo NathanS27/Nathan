@@ -26,7 +26,7 @@ body {
 }
 
 .hero {
-    background-image: linear-gradient(90deg, blue, red);
+    background-image: linear-gradient(90deg, #DF2935, #A400AF);
     color: #fff;
     display: flex;
     justify-content: center;
